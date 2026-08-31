@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2026/08/30 23:07:39 (WAT)</CreatedDate>
+  <ModifiedDate>2026/08/30 23:07:47 (WAT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.23.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.23.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>icdfa_sbt_df202_lab1_20260830_230739</Name>
+    <DisplayName>ICDFA_SBT_DF202_Lab1</DisplayName>
+    <Number>ICDFA-SBT-DF202-LAB1</Number>
+    <Examiner>Kafayat Omolara Animashawun</Examiner>
+    <ExaminerPhone>8111111111</ExaminerPhone>
+    <ExaminerEmail>fwsd2511317@students.icdfa.edu.ng</ExaminerEmail>
+    <CaseNotes>ICDFA SBT-DF202 Computer and Digital Forensics — Lab 1. Examination of authorised training forensic image Ch01InChap01.dd. Original evidence image preserved and not modified during analysis. Forensic examination performed using Autopsy and The Sleuth Kit.</CaseNotes>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>

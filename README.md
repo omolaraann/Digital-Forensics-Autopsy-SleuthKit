@@ -1,12 +1,3 @@
-# Digital Forensics Case Handling, Autopsy and Sleuth Kit Analysis
-
-**Course:** SBT-DF202 — Computer and Digital Forensics
-**Practical Lab:** Lab 1
-**Platform:** Local Forensic Workstation / Kali Linux or Ubuntu VM + Autopsy
-**Evidence Image:** `Ch01InChap01.dd`
-
----
-
 ## 1. Practical Overview
 
 This practical laboratory demonstrates the application of digital forensic investigation procedures using **Autopsy** and **The Sleuth Kit**.
